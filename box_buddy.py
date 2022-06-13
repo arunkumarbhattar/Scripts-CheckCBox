@@ -65,7 +65,5 @@ staticLib = str(isc_base_dir) + "/build/libisc_lib_final.a"
 os.chdir(str(tnt_base_dir) + "/../")
 os.system("mv " + staticLib + " .")
 
-# Now if the
-
 
 
